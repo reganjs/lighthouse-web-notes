@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Regan for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Regan](https://github.com/reganjs) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
